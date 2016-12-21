@@ -1,2 +1,3 @@
 # hello-world
-A new repo
+
+Readme file will contain information regarding the useage and chages of a specific repository.
